@@ -12,7 +12,7 @@ import { Human } from "earth";
 const strand = new Human();
 
 const data = {
-nicknames: ["stran", "strandy"],
+nicknames: ["stran", "strandy", "bestie"],
 pronouns: "he/him",
 loves: ["LoL", "Code", "Magic", "Moments"],
 favoriteColors: {
@@ -25,7 +25,6 @@ skills: {
         backEnd: ["Node.js", "MongoDB"]
     },
     softwareDevelopment: ["Python"],
-    extra: ["Discord Bot Developement", "Magic lover"]
 },
 tools: [
     "VS Code",
