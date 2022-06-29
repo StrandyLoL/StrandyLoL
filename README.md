@@ -12,7 +12,7 @@ import { Human } from "earth";
 const strand = new Human();
 
 const data = {
-nicknames: ["stran"],
+nicknames: ["stran", "strandy"],
 pronouns: "he/him",
 loves: ["LoL", "Code", "Magic", "Moments"],
 favoriteColors: {
@@ -36,7 +36,7 @@ tools: [
 ],
 contact: {
     discord: "Strand#0069",
-    twitter: "@StrandK69",
+    twitter: "@StrandyLoL",
     community: "[[PRIVATE]]"
 },
 };
