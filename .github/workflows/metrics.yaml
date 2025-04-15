@@ -24,7 +24,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: github-metrics.svg
           # Options
-          user: StrandK69
+          user: StrandyLoL
           template: classic
           base: header, activity, community
           config_timezone: GMT-5
